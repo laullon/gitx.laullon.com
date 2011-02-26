@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"> 
+  <channel> 
+    <title>GitX</title> 
+    <link>http://gitx.laullon.com/</link> 
+    <description>A more native clone of Gitk for OS X</description> 
+   <item> 
+      <title>GitX 0.8.0</title> 
+      <pubDate>Thu, 24 Feb 2011 23:00:00 GMT</pubDate> 
+      <enclosure sparkle:dsaSignature="MC0CFBZpdaG6Y8WGtI+U1CqzWfTUgX0TAhUAuB55Z8cTjdS403/+r+xjBkWngHs="
+	url="https://github.com/downloads/laullon/gitx/GitX-L_v0.8.0.zip" length="1803225" type="application/octet-stream" sparkle:version="0.8.0"/> 
+      <description> 
+        <![CDATA[
+            <style> 
+                body {
+                    font-size: 70%;
+                }
+                h1 {
+                    font-size: 160%;
+                }
+            </style> 
+          <h1>v0.8.0</h1> 
+
+        ]]>
+      </description> 
+    </item> 
+ 
+  </channel> 
+</rss> 
